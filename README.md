@@ -7,8 +7,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-10b981?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
 
-> A production-ready, rule-based AI Help Desk Chatbot built with Python and Flask — featuring Sentiment Analysis, Intent Classification, Fuzzy Matching, and Context Memory. Built as Project 1 of the DecodeLabs Industrial AI Training Program, Batch 2026.
-
+> A production-ready, rule-based AI Help Desk Chatbot built with Python and Flask — featuring Sentiment Analysis, Intent Classification, Fuzzy Matching, and Context Memory. 
 ---
 
 ## 📸 Preview
@@ -263,9 +262,7 @@ python-dotenv
 
 ## 👨‍💻 Author
 
-Built as **Project 1** of the DecodeLabs Industrial AI Training Program
-**Batch 2026** — Artificial Intelligence Track
-
+Abrar Shakeel 
 ---
 
 ## 📄 License
@@ -275,4 +272,4 @@ This project is licensed under the MIT License.
 ---
 
 > *"Before you can manage the chaos of a probability engine, you must master the precision of a logic engine."*
-> — DecodeLabs Architecture Briefing, Module 01
+
