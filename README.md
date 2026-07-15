@@ -92,7 +92,7 @@ rule_based_chatbot/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/yourusername/rule_based_chatbot.git
+git clone https://github.com/abrarghoury/rule_based_chatbot.git
 cd rule_based_chatbot
 ```
 
